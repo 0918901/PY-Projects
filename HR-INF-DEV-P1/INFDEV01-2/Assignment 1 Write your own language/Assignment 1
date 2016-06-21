@@ -1,0 +1,108 @@
+Assignment 1
+
+Exercise 1 Write your own language
+
+Students
+A= 2
+B= 3
+C= your age
+
+Start Position
+Y= Center
+X= Center
+
+orientation
+F= 180*
+B= -180*
+L= -90*
+R= 90*
+
+Rooms
+A1= 50x50
+B2= 40x40
+C3= 30x30
+D4= 20x20
+
+start timer 7 min
+
+while student is A go to random room
+	if room is A1
+		take pen and paper
+		Write with your pen on the paper your student number and class 
+		Write with your pen on the paper the date of today
+		Write with your pen on the paper your name and age
+		Write with your pen on the paper the amount of students in your group
+		Write with your pen on the paper your start position (x,y)
+		Hide your pen and paper
+		stand up
+		go to the center of the room
+		turn orientation to the north
+		take C/2 steps to the north
+		take pen and paper
+		Write with your pen on the paper your end position (x,y)
+	
+	if else room is B2
+		take pen and paper
+		Write with your pen on the paper your student number and class 
+		Write with your pen on the paper the date of today
+		Write with your pen on the paper your name and age
+		Write with your pen on the paper the amount of students in your group
+		Write with your pen on the paper your start position (x,y)
+		Hide your pen and paper
+		stand up
+		go to the center of the room
+		turn orientation to the east
+		take C/2 steps to the east
+		take pen and paper
+		Write with your pen on the paper your end position (x,y)
+	
+	if else room is C3
+		take pen and paper
+		Write with your pen on the paper your student number and class 
+		Write with your pen on the paper the date of today
+		Write with your pen on the paper your name and age
+		Write with your pen on the paper the amount of students in your group
+		Write with your pen on the paper your start position (x,y)
+		Hide your pen and paper
+		stand up
+		go to the center of the room
+		turn orientation to the east
+		take C/2 steps to the east
+		take pen and paper
+		Write with your pen on the paper your end position (x,y)
+	
+	if else room is D4
+		take pen and paper
+		Write with your pen on the paper your student number and class 
+		Write with your pen on the paper the date of today
+		Write with your pen on the paper your name and age
+		Write with your pen on the paper the amount of students in your group
+		Write with your pen on the paper your start position (x,y)
+		Hide your pen and paper
+		stand up
+		go to the center of the room
+		turn orientation to the east
+		take C/2 steps to the east
+		take pen and paper
+		Write with your pen on the paper your end position (x,y)
+
+while student is B
+		take pen and paper
+		Write with your pen on the paper your student number and class 
+		Write with your pen on the paper the date of today
+		Write with your pen on the paper your name and age
+		Write with your pen on the paper the amount of students in your group
+		Write with your pen on the paper your start position (x,y)
+		Hide your pen and paper
+		stand up
+		take chair
+		go to the center of the room
+		in the center of the room sit on chair
+		turn orientation to the south
+		slide C/2 steps to the south
+		take pen and paper
+		Write with your pen on the paper your end position (x,y)
+	
+Exercise 2 Run exercise 1
+
+Test exercise with another group
