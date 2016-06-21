@@ -1,0 +1,10 @@
+\.pyc$
+~$
+\.orig$
+^build/.+
+^dist/.+
+\.so$
+rabbyt\..+\.c$
+^docs/rabbyt/.*\.html$
+Rabbyt.egg-info
+\.swp$

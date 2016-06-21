@@ -1,0 +1,7 @@
+OOOOOO
+O2   O
+OOOO O
+O    O
+O OOOO
+O   1O
+OOOOOO

@@ -1,0 +1,10 @@
+OOOOOOOO.OOOOOOOO
+O       O     2 O
+O1OO OO O OOOOO O
+O OO OO O OOOOO O
+O     S O   S   O
+OOOOOOOOcOOOOOOOO
+
+1 0 # player 1 initial direction
+-1 0 # player 2 initial direction
+1 #
